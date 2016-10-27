@@ -98,7 +98,7 @@
 				<div class="row">
 					<div class="form-group">
 						<div class="col-md-2">
-						<label for="cinsiyet">Cinsiyet</label>
+						<label for="cinsiyet">Cinsiyet1</label>
 						</div>
 						<div class="col-md-4">
 						<div id="ara_input">
